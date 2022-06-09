@@ -7,17 +7,17 @@ $mascotas = $sentencia->fetchAll(PDO::FETCH_OBJ);
 <div class="row">
 <!-- Aquí pon las col-x necesarias, comienza tu contenido, etcétera -->
 	<div class="col-12">
-		<h1>Listar con arreglo</h1>
+		<h1>Listar con arreglo ValeriaXimenaVargasEspinosa</h1>
 		<br>
 		<div class="table-responsive">
 			<table class="table table-bordered">
 				<thead class="thead-dark">
 					<tr>
-						<th>ID</th>
-						<th>Nombre</th>
-						<th>Edad</th>
-						<th>Editar</th>
-						<th>Eliminar</th>
+						<th>id (vxve)</th>
+						<th>Name</th>
+						<th>Age</th>
+						<th>Edit</th>
+						<th>Delete</th>
 					</tr>
 				</thead>
 				<tbody>
